@@ -3,6 +3,6 @@ public class Main {
         int currentBalance = 2_000_000_000;
         int transferAmount = 500_000_000;
         currentBalance = currentBalance + transferAmount;
-        System.out.println(currentBalance);
+        System.out.println("Ваш текущий баланс: " + currentBalance);
     }
 }
