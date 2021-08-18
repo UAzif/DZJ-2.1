@@ -6,13 +6,13 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/UAzif/DZJ-2.1/issues/1
+* [Ошибка в приложении при пополнении счета](https://github.com/UAzif/DZJ-2.1/issues/1)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты
 
-В качестве тестовых данных использовались данные Задачи №1 - Money Transfer https://github.com/netology-code/javaqa-homeworks/tree/master/programming 
+В качестве тестовых данных использовались данные [Задачи №1 - Money Transfer](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)  
 
 
 Тестирование производилось в следующем окружении:
